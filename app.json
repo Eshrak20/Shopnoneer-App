@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Nusuki App",
+    "name": "Shopnoneer App",
     "slug": "Nusuki_React_Native",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/nusukiApp.png",
+    "icon": "./assets/app.png",
     "scheme": "nusuki",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/nusukiApp.png",
+        "foregroundImage": "./assets/app.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
@@ -27,7 +27,7 @@
       "package": "com.eshrakg.nusuki"
     },
     "web": {
-      "favicon": "./assets/nusukiApp.png"
+      "favicon": "./assets/app.png"
     },
     "plugins": [
       "expo-router",
