@@ -39,9 +39,9 @@
           "resizeMode": "cover",
           "imageWidth": 390
         }
-      ]
+      ],
+      "expo-font"
     ],
-
     "extra": {
       "router": {},
       "eas": {

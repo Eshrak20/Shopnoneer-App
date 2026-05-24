@@ -9,6 +9,10 @@ module.exports = {
         primary: "#13275F",
         "primary-light": "#8FB4FF",
       },
+      fontFamily: {
+        bangla: ["NotoSerifBengali_700Bold"],
+      }
+
     },
   },
   plugins: [],
